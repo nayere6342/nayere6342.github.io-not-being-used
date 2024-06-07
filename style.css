@@ -32,7 +32,6 @@ a {
 
 .margin {
     margin-bottom: 45px;
-    color: red;
 }
 
 .bg-1 {
@@ -82,3 +81,4 @@ a {
 .navbar-nav li a:hover {
     color: #2e72a1 !important;
 }
+
