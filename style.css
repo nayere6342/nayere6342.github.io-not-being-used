@@ -14,7 +14,8 @@ p {
 
 a {
     color: #2e72a1;
-    background-color: #000000;
+    background-color: #575e66;
+    padding: 10px;
 }
 
 #logo, .project-img {
